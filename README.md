@@ -6,8 +6,9 @@ main.cpp
 
 Performance:
 
-a Chinese text file:
+a Chinese text file (unicode):
 
+```
   --------------------------
   Coding Information:
   --------------------------
@@ -15,9 +16,11 @@ a Chinese text file:
   Output file: 492kb
   Compressibility: 23.5383%
   --------------------------
-  
+```
+
 a English text file（Jane Eyre）: 
 
+```
   --------------------------
   Coding Information:
   --------------------------
@@ -25,3 +28,4 @@ a English text file（Jane Eyre）:
   Output file: 162kb
   Compressibility: 42.7012%
   --------------------------
+```
